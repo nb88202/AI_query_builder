@@ -2,10 +2,10 @@
 
 
 .env variables will be 
-
-ENDPOINT_URL
-DEPLOYMENT_NAME
-AZURE_OPENAI_API_KEY
-
+<ul>
+<li>ENDPOINT_URL</li>
+<li>DEPLOYMENT_NAME</li>
+<li>AZURE_OPENAI_API_KEY</li>
+</ul>
 
 pass in the schema of any local data warehouse in the prompt.  
